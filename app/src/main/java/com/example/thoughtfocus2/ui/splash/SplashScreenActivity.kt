@@ -1,12 +1,12 @@
-package com.example.thoughtfocus2.view
+package com.example.thoughtfocus2.ui.splash
 
 import android.content.Intent
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.LayoutInflater
 import com.example.thoughtfocus2.R
 import com.example.thoughtfocus2.databinding.ActivitySplashScreenBinding
+import com.example.thoughtfocus2.ui.MainActivity
 
 class SplashScreenActivity : AppCompatActivity() {
 

@@ -1,4 +1,4 @@
-package com.example.thoughtfocus2.view
+package com.example.thoughtfocus2.ui.login
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
